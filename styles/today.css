@@ -1,0 +1,19 @@
+/* Let's donate */
+header{
+    text-align: center;
+    background-image: url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background: cover;
+    }
+.design-item{
+
+}
+.design-description{
+
+}
+.btn-color{
+    color: white;
+    background-color: palevioletred;
+}
