@@ -8,12 +8,22 @@ header{
     background: cover;
     }
 .design-item{
-
+    font-weight: 700px;
+    font-size: 65px;
+    padding: 107px 300px 0px 300px;
+    color: white;
+    
 }
 .design-description{
-
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 0px 350px 20px 350px;
+ 
 }
 .btn-color{
     color: white;
     background-color: palevioletred;
+    font-size: 20px;
+    padding: 17px 25px;
 }
